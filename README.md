@@ -1,0 +1,1 @@
+This assignment is asking me to create a replica of the Google homepage. The homepage does not have to be functioning it jut needs to look the same. I hope to be able to get comfortable enough with basic html and css in order to complete this task :)
